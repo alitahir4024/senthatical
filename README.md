@@ -13,4 +13,4 @@ Senthatical comes with advanced static features like carousels, dropdowns, galla
 
 ## Project Preview:
 
-(https://ali-tahir4024.github.io/senthatical/)
+[Senthatical Website Template](https://ali-tahir4024.github.io/senthatical/)
